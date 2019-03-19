@@ -1,0 +1,99 @@
+* {
+  font-family: 'Rasa', serif;
+}
+
+.body {
+  padding-top: 40px;
+  max-width: 750px;
+  margin: auto;
+  text-align: center;
+  background-color: #232234;
+}
+
+#home {
+  background-color: #232234;
+  color: white;
+}
+
+#aboutMe {
+  background-color: yellow;
+}
+
+#contactMe {
+  background-color: green;
+}
+
+#showCase {
+  background-color: blue;
+}
+
+#navbar {
+  margin-right: 10px;
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.active, .btn:hover {
+  background-color: #232234;
+  color: white;
+}
+
+.ul {
+  padding-top: 12px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin-right: 30px;
+  background-color: white;
+  font-size: 18px;
+}
+
+.mainNavbar {
+  padding-left: 1400px;
+  padding-top: 20px;
+}
+
+.img {
+  position: fixed;
+  top: 0;
+}
+
+.navbarbr {
+  line-height: 1px;
+}
+
+.title {
+  padding-top: 11px;
+  padding-left: 130px;
+  position: fixed;
+  top: 0;
+  color: #232234;
+}
+
+.headers {
+  padding-left: 5px;
+}
+
+.img2 {
+  text-align: center;
+  align: middle;
+}
+
+.© {
+  color: grey;
+  font-size: 11px;
+  text-align: center;
+}
+
+.p {
+  padding-left: 3px;
+  padding-right: 3px;
+}

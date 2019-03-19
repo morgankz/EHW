@@ -1,0 +1,116 @@
+* {
+  font-family: 'Rasa', serif;
+  text-decoration: none;
+}
+
+#home {
+  background-color: #232234;
+  color: white;
+}
+
+#aboutMe {
+  background-color: #232234;
+  color: white;
+}
+
+#contactMe {
+  background-color: #232234;
+  color: white;
+}
+
+#showCase {
+  background-color: #232234;
+  color: white;
+}
+
+#navbar {
+  margin-right: 10px;
+}
+
+.link {
+  color: white;
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.active, .btn:hover {
+  background-color: #232234;
+  color: white;
+}
+
+.ul {
+  padding-top: 12px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin-right: 30px;
+  background-color: white;
+  font-size: 18px;
+}
+
+.mainNavbar {
+  padding-left: 1130px;
+  padding-top: 20px;
+}
+
+.img {
+  position: fixed;
+  top: 0;
+}
+
+.navbarbr {
+  line-height: 1px;
+}
+
+.title {
+  padding-top: 11px;
+  padding-left: 130px;
+  position: fixed;
+  top: 0;
+  color: #232234;
+}
+
+.headers {
+  padding-left: 5px;
+}
+
+.© {
+  color: grey;
+  font-size: 11px;
+  text-align: center;
+}
+
+.img2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.story1 {
+  text-align: center;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  padding-top: 120px;
+  left: 0;
+  top: 0;
+  width: 75%;
+  height: 100%;
+  s overflow: auto;
+  padding-left: 12.5%;
+  padding-right: 12.5%;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+}
