@@ -90,3 +90,9 @@
 .br {
   line-height: 1px;
 }
+
+.otherPages {
+  display: inline-block;
+  float: right;
+  text-decoration: none;
+}
