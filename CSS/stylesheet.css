@@ -6,21 +6,37 @@
 #NW {
   background-color: #232234;
   color: white;
+  max-width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #aboutMe {
   background-color: #232234;
   color: white;
+  max-width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #contactMe {
   background-color: #232234;
   color: white;
+  max-width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #showCase {
   background-color: #232234;
   color: white;
+  max-width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #navbar {
