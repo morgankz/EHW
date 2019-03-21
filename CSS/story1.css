@@ -92,7 +92,7 @@
 }
 
 .otherPages {
-  display: inline-block;
+  display: block;
   float: right;
   text-decoration: none;
 }
